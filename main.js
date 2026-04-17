@@ -24024,7 +24024,7 @@ function oD() {
             if (n.append("name", e.name),
             n.append("email", e.email),
             n.append("message", e.message),
-            !(await fetch("https://script.google.com/macros/s/AKfycbx9IkbQNO4C4Cpu-lQHWFALrBPT0dnbkSxI6xTVUVcRjQcBWTOADgQU9kcxQzZ3TQwi/exec", {
+            !(await fetch("https://script.google.com/macros/s/AKfycbyKAChXOd7Ec7UygojdGOG27kv-6I3ogU-vDYF4DxCdLgkU_5C1aSh0dweOWFA50x9a/exec", {
                 method: "POST",
                 body: n
             })).ok)
@@ -31613,7 +31613,7 @@ function bL() {
                                             className: "w-5 h-5 text-primary"
                                         })
                                     }), E.jsx("span", {
-                                        children: "contact@liadprotop.run.place"
+                                        children: "contact@liadprotop.eu.org"
                                     })]
                                 }), E.jsxs("div", {
                                     className: "flex items-center gap-4 text-sm text-muted-foreground hover:text-primary transition-colors cursor-pointer group",
@@ -31623,7 +31623,7 @@ function bL() {
                                             className: "w-5 h-5 text-primary"
                                         })
                                     }), E.jsx("span", {
-                                        children: "github.com/LiadProtop"
+                                        children: "github.com/LiadProtopRoblox"
                                     })]
                                 })]
                             }), E.jsx("div", {
